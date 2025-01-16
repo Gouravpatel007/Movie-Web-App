@@ -29,3 +29,6 @@ export const asyncloadtv = (id) => async (dispatch, getState) => {
         console.log("Error", error)
     }
 };
+
+
+

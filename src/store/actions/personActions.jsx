@@ -24,3 +24,11 @@ export const asyncloadperson = (id) => async (dispatch, getState) => {
         console.log("Error", error)
     }
 };
+
+
+
+
+
+
+
+

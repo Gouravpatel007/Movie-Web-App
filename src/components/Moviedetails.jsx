@@ -202,3 +202,6 @@ const Moviedetails = () => {
 }
 
 export default Moviedetails
+
+
+

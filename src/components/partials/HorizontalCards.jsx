@@ -41,3 +41,5 @@ const HorizontalCards = ({data}) => {
 }
 
 export default HorizontalCards;
+
+

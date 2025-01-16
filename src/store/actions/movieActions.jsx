@@ -29,3 +29,5 @@ export const asyncloadmovie = (id) => async (dispatch, getState) => {
         console.log("Error", error)
     }
 };
+
+
