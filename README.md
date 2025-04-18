@@ -86,4 +86,4 @@ yarn dev
 🌙 Dark mode toggle
 
 
-To see the live Project Click on this link : https://app.netlify.com/sites/enchanting-nougat-f803a9/overview
+To see the live Project Click on this link : https://enchanting-nougat-f803a9.netlify.app/
