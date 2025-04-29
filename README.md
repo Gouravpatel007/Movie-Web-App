@@ -57,7 +57,7 @@ A fully responsive movie and TV show web app built with ReactJS, Vite, Tailwind 
 🛠️ Getting Started
 
 1. Clone the repo
-   git clone https://github.com/your-username/moviehub.git
+   git clone https://github.com/Gouravpatel007/Movie-Web-App?tab=readme-ov-file.git
    cd moviehub
 
 2. Install dependencies
